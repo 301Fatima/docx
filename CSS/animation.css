@@ -1,0 +1,39 @@
+.boxes{
+    position: absolute;
+    background-color: rgb(255, 0, 0);
+    height: 600px;
+    width: 600px; 
+    margin-left: 400px;
+   box-shadow: 35px 35px 35px salmon;
+}
+.box1{
+    position: absolute;
+    background-color: blueviolet;
+    height: 150px;
+    width: 150px;
+    animation-name: boxMove;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes boxMove {
+   0%{
+    top: 0px;
+    left: 0px;
+   }
+    30%{
+    background-color: blue;
+    top: 0px;
+    left: 450px;
+  }
+   70%{
+    background-color: gold;
+    left: 450px;
+    bottom: 0px;
+   }
+  100%{
+    background-color: green;
+    right: 450px ;
+    bottom: 0px;
+  }

@@ -1,0 +1,205 @@
+.div1{
+    position: relative;
+    height: 660px;
+    width: 1000px;
+    border: 3px solid black;
+    margin-left: 220px;
+    border-radius: 5px;
+}
+.div2{
+    position: absolute;
+    height: 100px;
+    width: 1000px;
+    background-color: brown;
+}
+.box1{
+    position: absolute;
+    height: 60px;
+    width: 70px;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    margin-left: 900px;
+    border: 3px solid brown;
+    border-radius: 6px;
+}
+.box2{
+    position: absolute;
+    height: 60px;
+    width: 70px;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    margin-left: 800px;
+    border: 3px solid brown;
+    border-radius: 6px;
+}
+.box3{
+    position: absolute;
+    height: 60px;
+    width: 70px;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    margin-left: 700px;
+    border: 3px solid brown;
+    border-radius: 6px;
+}
+.box4{
+    position: absolute;
+    height: 60px;
+    width: 70px;
+    background-color: blanchedalmond;
+    margin-top: 15px;
+    margin-left: 600px;
+    border: 3px solid brown;
+    border-radius: 6px;
+}
+.div3{
+    position: absolute;
+    height: 50px;
+    width: 500px;
+    background-color: gray;
+    margin-top: 100px;
+}
+.button1{
+    font-weight: bold;
+   margin-left: 10px;
+   margin-top: 15px;
+   background-color: gray;
+   border: 3px solid grey;
+}
+.button2{
+    font-weight: bold;
+   margin-left: 15px;
+   margin-top: 15px;
+   background-color: gray;
+   border: 3px solid grey;
+}
+.button3{
+    font-weight: bold;
+   margin-left: 17px;
+   margin-top: 15px;
+   background-color: gray;
+   border: 3px solid grey;
+}
+.button4{
+    font-weight: bold;
+   margin-left: 20px;
+   margin-top: 15px;
+   background-color: gray;
+   border: 3px solid grey;
+}
+.div4{
+    position: absolute;
+    height: 50px;
+    width: 500px;
+    background-color: olive;
+    margin-top: 100px;
+    margin-left: 500px;
+}
+.bar{
+    position: absolute;
+    height: 30px;
+    width: 200px;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 280px;
+}
+.div5{
+    position: absolute;
+    height: 260px;
+    width: 1000px;
+    background-color:  rgb(219, 181, 119);
+   margin-top: 150px;
+}
+.div6{
+   position: absolute;
+   height: 230px;
+   width: 950px;
+   background-color: black;
+   margin-top: 15px;
+   margin-left: 25px;
+   border-radius: 5px;
+}
+.div7{
+    position: absolute;
+    height: 40px;
+    width: 950px;
+    background-color: blue;
+    margin-top: 190px;
+    border-radius: 4px;
+}
+.div8{
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    background-color: gold;
+    border-radius: 5px;
+    margin-top: 140px;
+    margin-left: 30px;
+}
+.div9{
+    position: absolute;
+    height: 40px;
+    width: 150px;
+    background-color: gold;
+    border-radius: 5px;
+    margin-top: 140px;
+    margin-left: 200px;
+}
+.box5{
+    position: absolute;
+    height: 200px;
+    width: 180px;
+    background-color: rgba(190, 185, 245, 0.509);
+    border-bottom-left-radius: 160px;
+    border: 3px solid rgb(156, 158, 255);
+    margin-top: 10px;
+    margin-left: 750px;
+}
+.box6{
+    position: absolute;
+   height: 190px;
+   width: 160px;
+   background-color: rgb(177, 152, 152);
+   border: 3px solid  rgb(156, 158, 255);
+   margin-top: 30px;
+   margin-left: 690px;
+}
+.bottombox1{
+    position: absolute;
+    height: 245px;
+    width: 500px;
+    margin-top: 410px;
+    background-color: rgb(245, 172, 212);
+    border: 3px solid grey;
+    border-bottom-right-radius: 1px;
+}
+.box7{
+    position: absolute;
+    height: 151px;
+    width: 450px;
+    background-color: aquamarine;
+    margin-top: 91px;
+    border: 3px solid grey;
+    border-radius: 5px;
+    margin-left: 23px;
+}
+.bottombox2{
+    position: absolute;
+    height: 200px;
+    width: 400px;
+    margin-top: 440px;
+    margin-left: 550px;
+    background-color: rgb(34, 242, 7);
+    border: 3px solid grey;
+    border-radius: 5px;
+}
+.bar2{
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    background-color: gray;
+    border-radius: 6px;
+    
+}
+
+
